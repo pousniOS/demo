@@ -1,0 +1,9 @@
+Git使用小记：
+git -init //创建一个git
+git -status -s 查看文件状态
+git -add 文件名 把文件添加到提交缓存
+git -add . 添加所以改动的文件到缓存
+git commit -m '备注文本'
+
+git remote add origin ‘地址’
+git push -u origin master
