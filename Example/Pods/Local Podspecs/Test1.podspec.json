@@ -1,0 +1,22 @@
+{
+  "name": "Test1",
+  "version": "0.1.0",
+  "summary": "A short description of Test1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangYue/Test1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangYue": "1916578506@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yangYue/Test1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Test1/Classes/**/*"
+}
